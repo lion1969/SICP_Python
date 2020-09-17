@@ -1,9 +1,10 @@
-def absolute_value(x) :
-    if x > 0 :
+def absolute_value(x):
+    if x > 0:
         return x
-    elif x == 0 :
+    elif x == 0:
         return 0
-    else :
+    else:
         return -x
 
-absolute_value(2)
+
+print("Abs = ", absolute_value(2))
