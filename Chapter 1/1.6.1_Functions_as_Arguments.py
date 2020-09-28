@@ -52,7 +52,7 @@ def pi_term(k):
     return 8 / denominator
 
 
-def increment(k):
+def successor(k):
     return k + 1
 
 
@@ -61,11 +61,11 @@ def pi_next(k):
 
 
 print("sum first N = 100, natural digits = ", sum_naturals(100))
-print("sum first N = 100, natural digits = ", sum_of_series(100, identity, increment))
+print("sum first N = 100, natural digits = ", sum_of_series(100, identity, successor))
 print()
 
 print("sum first N = 100, cubes of natural digits = ", sum_cubes(100))
-print("sum first N = 100, cubes of natural digits = ", sum_of_series(100, cube, increment))
+print("sum first N = 100, cubes of natural digits = ", sum_of_series(100, cube, successor))
 print()
 
 print("sum first N = 1000000, sum of terms for Pi series = ", pi_sum(1000000))

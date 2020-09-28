@@ -23,7 +23,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/SICP_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SICP_Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.4_First_Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/1.1.4_First_Example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/1.6.1_Functions_as_Arguments.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/1.6.1_Functions_as_Arguments.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +51,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\leonid\PycharmProjects\SICP_Python\Chapter 1" />
       <recent name="$PROJECT_DIR$/Chapter 1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.1.6.1_Functions_as_Arguments">
     <configuration name="1.1.4_First_Example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SICP_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,9 +81,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1.5.4_Conditional_Statements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SICP_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 1/1.5.4_Conditional_Statements.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1.5.5_Iteration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SICP_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 1/1.5.5_Iteration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1.6.1_Functions_as_Arguments" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SICP_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 1/1.6.1_Functions_as_Arguments.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1.1.4_First_Example" />
+        <item itemvalue="Python.1.6.1_Functions_as_Arguments" />
+        <item itemvalue="Python.1.5.5_Iteration" />
+        <item itemvalue="Python.1.5.5_Iteration" />
+        <item itemvalue="Python.1.5.4_Conditional_Statements" />
+        <item itemvalue="Python.1.5.4_Conditional_Statements" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +173,49 @@
       <option name="project" value="LOCAL" />
       <updated>1599483243531</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exmaple Conditional Statement">
+      <created>1600350756235</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600350756235</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Example of iteration">
+      <created>1600352687611</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600352687611</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Change structure. Now examples would place in separate directories.">
+      <created>1600352711828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600352711828</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Change structure. Now examples would place in separate directories.">
+      <created>1600353434382</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600353434382</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Function as argument example">
+      <created>1600435490823</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600435490823</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Function as argument example.">
+      <created>1600435632370</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600435632370</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,12 +228,45 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exmaple Conditional Statement" />
+    <MESSAGE value="Example of iteration" />
     <MESSAGE value="Change structure. Now examples would place in separate directories." />
-    <option name="LAST_COMMIT_MESSAGE" value="Change structure. Now examples would place in separate directories." />
+    <MESSAGE value="Function as argument example" />
+    <MESSAGE value="Function as argument example." />
+    <option name="LAST_COMMIT_MESSAGE" value="Function as argument example." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="532" y="87" key="CommitChangelistDialog2" timestamp="1600435630845">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600435630845" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1600254584307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600254584307" />
+    <state width="1898" height="240" key="GridCell.Tab.0.bottom" timestamp="1600439652037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600439652037" />
+    <state width="1898" height="240" key="GridCell.Tab.0.center" timestamp="1600439652037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600439652037" />
+    <state width="1898" height="240" key="GridCell.Tab.0.left" timestamp="1600439652037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600439652037" />
+    <state width="1898" height="240" key="GridCell.Tab.0.right" timestamp="1600439652037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600439652037" />
+    <state x="461" y="151" key="SettingsEditor" timestamp="1600351264312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600351264312" />
     <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599483253017">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -131,5 +275,13 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="877" y="331" width="764" height="451" key="VcsDiffUtil.ChangesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1599483137323" />
+    <state x="803" y="304" key="refactoring.ChangeSignatureDialog" timestamp="1600352487754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="304" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600352487754" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600351490519">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600351490519" />
   </component>
 </project>
